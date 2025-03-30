@@ -62,4 +62,4 @@ class Solution {
     }
 }
 
-TC: 
+TC: O(N! X N)
